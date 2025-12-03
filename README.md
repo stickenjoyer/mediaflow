@@ -1,7 +1,7 @@
 # UnHided
 ## Env Vars
 ```
-API_PASSWORD = kwongcast
+API_PASSWORD = password
 ```
 ### Mamma Mia
 If you want to install MammaMia addon as well put also that enviroment variable
